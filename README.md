@@ -1,2 +1,8 @@
-# sf_data_science
-sf homewotk
+# My data science project
+From the [Skillfactory Data Science course](http://skillfactory.ru/data-scientist)
+
+## Проекты
+
+* [Проект 0. Игра: Угадай число](https://github.com/YulyZzz/sf_data_science/project_0)
+* [Проект 1.------]()
+* [Проект 2.======]()
